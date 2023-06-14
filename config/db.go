@@ -1,7 +1,8 @@
 package config
 
 import (
-	"github.com/Rama-85/gin-gorm-rest/models"
+	"gin-gorm-rest/models"
+
 	"gorm.io/driver/postgres"
 	"gorm.io/gorm"
 )

@@ -1,7 +1,8 @@
 package routes
 
 import (
-	"github.com/Rama-85/gin-gorm-rest/controller"
+	"gin-gorm-rest/controller"
+
 	"github.com/gin-gonic/gin"
 )
 

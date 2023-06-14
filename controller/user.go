@@ -1,8 +1,9 @@
 package controller
 
 import (
-	"github.com/Rama-85/gin-gorm-rest/config"
-	"github.com/Rama-85/gin-gorm-rest/models"
+	"gin-gorm-rest/config"
+	"gin-gorm-rest/models"
+
 	"github.com/gin-gonic/gin"
 )
 
